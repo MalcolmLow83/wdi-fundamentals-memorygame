@@ -14,7 +14,7 @@ cardTwo = cards[2];
 cardsInPlay.push(cardOne);
 
 //store cardOne value into cardsInPlay[1]
-//cardsInPlay.push(cardTwo);
+cardsInPlay.push(cardTwo);
 
 //Display cardsInPlay
 alert("User flipped " + cardsInPlay[0] + " and " + cardsInPlay[1]);
