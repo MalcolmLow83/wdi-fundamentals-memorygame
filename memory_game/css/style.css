@@ -17,6 +17,9 @@ h2 {
 	font-weight: 600;
 	font-size: 20px;
 }
+h4 {
+	background-color: orange;
+}
 p {
 	font-family: "Droid Serif", serif;
 }
@@ -33,9 +36,6 @@ a {
 }
 a:hover {
 	font-color: white;
-}
-span {
-	background-color: black;
 }
 main {
 	width: 850px;
@@ -71,4 +71,7 @@ footer {
 .name {
 	color: #f15b31;
 	font-weight: 700;
+}
+.person {
+	background-color: black;
 }
